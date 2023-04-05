@@ -15,8 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/bennaifei/bennaifei.app/main/src/assets/
--2126a66d1629f317.jpg',
+      avatar: 'https://i.postimg.cc/fLnHC53M/58613ee86672fe79.jpg',
       name: '苯奈菲',
       description: 'Star on <a href="https://github.com/bennaifei/bennaifei.app" class="text-blue-500" target="_blank" >Github</a>',
     },
