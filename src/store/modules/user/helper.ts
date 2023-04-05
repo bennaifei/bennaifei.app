@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://i.postimg.cc/fLnHC53M/58613ee86672fe79.jpg',
       name: '苯奈菲',
-      description: 'Star on <a href="https://github.com/bennaifei/bennaifei.app" class="text-blue-500" target="_blank" >Github</a>',
+      description: 'Star on <a href="https://github.com/ChenZhaoYu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
     },
   }
 }
